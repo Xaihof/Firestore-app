@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546500256106",
+    "project_id": "firestorecrudsimple",
+    "storage_bucket": "firestorecrudsimple.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546500256106:android:b81a39d8e717c2e6c70513",
+        "android_client_info": {
+          "package_name": "com.xoksis.firestorecrudsimple"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_EwpZNjsSLljFcxMMiWHUhKkTcTbHdeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
